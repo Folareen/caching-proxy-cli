@@ -1,0 +1,26 @@
+{
+  "name": "caching-proxy-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "caching-proxy": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Folareen/caching-proxy-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Folareen/caching-proxy-cli/issues"
+  },
+  "homepage": "https://github.com/Folareen/caching-proxy-cli#readme",
+  "dependencies": {
+    "redis": "^5.8.2"
+  }
+}
